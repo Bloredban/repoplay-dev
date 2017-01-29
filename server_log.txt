@@ -1,0 +1,155 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3e, (C)2005-2012 SA-MP Team
+
+[02:28:44] 
+[02:28:44] Server Plugins
+[02:28:44] --------------
+[02:28:44]  Loading plugin: crashdetect
+[02:28:44]   CrashDetect v4.13 is OK.
+[02:28:44]   Loaded.
+[02:28:44]  Loading plugin: streamer
+[02:28:44] 
+
+*** Streamer Plugin v2.6.1 by Incognito loaded ***
+
+[02:28:44]   Loaded.
+[02:28:44]  Loading plugin: sscanf
+[02:28:44] 
+
+[02:28:44]  ===============================
+
+[02:28:44]       sscanf plugin loaded.     
+
+[02:28:44]          Version:  2.8.1        
+
+[02:28:44]    (c) 2012 Alex "Y_Less" Cole  
+
+[02:28:44]  ===============================
+
+[02:28:44]   Loaded.
+[02:28:44]  Loading plugin: mysql
+[02:28:44] 
+
+  > MySQL plugin R5 successfully loaded.
+
+[02:28:44]   Loaded.
+[02:28:44]  Loaded 4 plugins.
+
+[02:28:44] 
+[02:28:44] Filterscripts
+[02:28:44] ---------------
+[02:28:44]   Loaded 0 filterscripts.
+
+[02:28:44] OnGameModeInit() STK 16264
+[02:28:44] 
+----------------------------------
+[02:28:44]  [Ortiplay MSG]: Успешная загрузка 'LoadHouses' - загружено 76 за 164 м.с
+[02:28:44]  [Ortiplay MSG]: Успешная загрузка 'LoadBizz' - загружено 1 за 8 м.с
+[02:28:45]  [Ortiplay MSG]: Успешная загрузка 'LoadVehicle' - загружено 56 за 118 м.с
+[02:28:45]  [SMSG]: Успешная загрузка 'LoadEnters' - загружено 20 пикапов за 47 м.с
+[02:28:45]  [SMSG]: Успешная загрузка 'LoadATM' - загружено 0 банкоматов за 5 м.с
+[02:28:45]  [SMSG]: Успешная загрузка 'LoadPodezd' - загружено 33 подьездов за 73 м.с
+[02:28:46]  [SMSG]: Успешная загрузка 'LoadRooms' - загружено 673 квартир за 1408 м.с
+[02:28:46]  [SMSG]: Успешная загрузка 'LoadMayor' за 6 м.с
+[02:28:46]  [Ortiplay MSG]: Успешная загрузка 'LoadOther' за 6 м.с
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46] sscanf warning: String buffer overflow.
+[02:28:46]  [Ortiplay MSG]: Успешная загрузка 'LoadFrac' - загружено 20 за 51 м.с
+[02:28:46] OnGameModeInit() STK 16256 (4 LOSS)
+[02:28:46] ==============================================
+[02:28:46]  Подключение к базе `ortiplaycr` успешно
+[02:28:46] ==============================================
+[02:28:46] Number of vehicle models: 49
+[02:29:28] Incoming connection: 127.0.0.1:2233
+[02:29:28] [join] Vlad_Zhbankov has joined the server (0:127.0.0.1)
+[02:29:41] Игрок Vlad_Zhbankov только что использовал диалог номер 2
+[02:29:41] sscanf warning: Format specifier does not match parameter count.
+[02:29:49] Игрок Vlad_Zhbankov только что использовал диалог номер 2934
+[02:29:56] Игрок Vlad_Zhbankov только что использовал команду "/veh 511 0 0"
+[02:29:56] SecUpdate() STK 16360
+[02:29:56] SecUpdate() STK 15152 (1204 LOSS)
+[02:29:59] Игрок Vlad_Zhbankov только что умер
+[02:29:59] [debug] Run time error 4: "Array index out of bounds"
+[02:29:59] [debug]  Accessing element at index 65535 past array upper bound 499
+[02:29:59] [debug] AMX backtrace:
+[02:29:59] [debug] #0 0026da2c in public OnPlayerDeath (0x00000000, 0x0000ffff, 0x000000ff) from mode.amx
+[02:29:59] [death] Vlad_Zhbankov died 255
+[02:30:13] Игрок Vlad_Zhbankov только что использовал команду "/menu"
+[02:30:15] Игрок Vlad_Zhbankov только что использовал диалог номер 5
+[02:30:15] Игрок Vlad_Zhbankov успешно использовал диалог номер 5
+[02:30:16] Игрок Vlad_Zhbankov только что использовал диалог номер 6
+[02:30:16] Игрок Vlad_Zhbankov успешно использовал диалог номер 6
+[02:30:33] Игрок Vlad_Zhbankov только что использовал команду "/weather"
+[02:30:36] Игрок Vlad_Zhbankov только что использовал диалог номер 47
+[02:30:36] Игрок Vlad_Zhbankov успешно использовал диалог номер 47
+[02:30:41] Игрок Vlad_Zhbankov только что использовал команду "/tp"
+[02:30:41] Игрок Vlad_Zhbankov только что использовал диалог номер 270
+[02:30:41] Игрок Vlad_Zhbankov успешно использовал диалог номер 270
+[02:30:41] Игрок Vlad_Zhbankov только что использовал диалог номер 271
+[02:30:41] Игрок Vlad_Zhbankov успешно использовал диалог номер 271
+[02:30:48] Игрок Vlad_Zhbankov только что использовал команду "/weather"
+[02:30:49] Игрок Vlad_Zhbankov только что использовал диалог номер 47
+[02:30:49] Игрок Vlad_Zhbankov успешно использовал диалог номер 47
+[02:30:50] Игрок Vlad_Zhbankov только что использовал команду "/weather"
+[02:30:51] Игрок Vlad_Zhbankov только что использовал диалог номер 47
+[02:30:51] Игрок Vlad_Zhbankov успешно использовал диалог номер 47
+[02:30:52] Игрок Vlad_Zhbankov только что использовал команду "/weather"
+[02:30:54] Игрок Vlad_Zhbankov только что использовал диалог номер 47
+[02:30:54] Игрок Vlad_Zhbankov успешно использовал диалог номер 47
+[02:31:05] SecUpdate() STK 16360
+[02:31:05] SecUpdate() STK 15152 (1204 LOSS)
+[02:31:09] Игрок Vlad_Zhbankov только что использовал команду "/veh 555 0 0"
+[02:31:26] Игрок Vlad_Zhbankov только что использовал команду "/veh 554 0 0"
+[02:31:54] Игрок Vlad_Zhbankov только что использовал команду "/veh 550 0 0"
+[02:31:58] Игрок Vlad_Zhbankov только что встал на чекпоинт
+[02:32:14] SecUpdate() STK 16360
+[02:32:14] SecUpdate() STK 15152 (1204 LOSS)
+[02:32:24] Игрок Vlad_Zhbankov только что использовал команду "/fixveh"
+[02:32:52] Игрок Vlad_Zhbankov только что использовал команду "/li"
+[02:33:07] Игрок Vlad_Zhbankov только что использовал команду "/li"
+[02:33:22] SecUpdate() STK 16360
+[02:33:22] SecUpdate() STK 15152 (1204 LOSS)
+[02:33:43] [part] Vlad_Zhbankov has left the server (0:1)
+[02:33:49] --- Server Shutting Down.
+[02:33:49] ===========GameMode Exit!=============
+[02:33:49] ===========GameMode EXITED!=============
+[02:33:49] 
+
+*** Streamer Plugin v2.6.1 by Incognito unloaded ***
+
+[02:33:49] 
+
+[02:33:49]  ===============================
+
+[02:33:49]      sscanf plugin unloaded.    
+
+[02:33:49]  ===============================
+
+[02:33:49] 
+
+  > MySQL plugin unloaded.
+
